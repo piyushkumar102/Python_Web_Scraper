@@ -1,0 +1,100 @@
+ 1. Goa - Situated on the Western Coast, Goa is the place associated most with touristy beaches, happening nightlife and old Portuguese architecture. 
+ 2. Agra - Home to one of the 7 wonders of the world, Taj Mahal, Agra is a sneak peek into the architectural history with other structures such as Agra Fort and Fatehpur Sikri and hence makes for a must visit for anyone living in or visiting India. 
+ 3. Manali - Nestled at one end of the Kullu Valley, Manali is a hill station with attraction such as the Rohtang pass nearby and is popular among tourists, especially during summers. 
+ 4. Jaipur - Jaipur, the 'Pink City', is one of the most royal, majestic and colourful cities of India with a very strong historical background and vibrant culture. 
+ 5. Delhi - From historical monuments to crowded shopping malls, from Mughal gardens to Delhi University campus, the capital city has multiple personalities making it 'The good, the bad and the ugly'. 
+ 6. Andaman & Nicobar Islands - A group of about 600 islands in the Bay of Bengal, Andaman and Nicobar Islands are known for their scenic beaches, dense forests and adventurous water sports. 
+ 7. Udaipur - Located in a valley and surrounded by 4 lakes, it is at times referred to as the 'Kashmir of Rajasthan' 
+ 8. Varanasi - Famously known as Banaras or Kashi, the holy city of Varanasi is located on the banks of river Ganga and is considered one of the holiest cities in India owing to its location and the numerous temples in it. 
+ 9. Leh Ladakh - Lying in midst of the Himalayan and Karakoram ranges with superabundance of attractions to visit and phantasmagoric and fabulous landscapes, Ladakh is truly a heaven on Earth. 
+ 10. Mumbai - Labeled with multiple titles such as 'Financial capital of India', 'The Maximum City', 'Land of Bollywood', 'The dream City' and much more, Mumbai is Maharashtra's capital and India's most populous city which has multiple faces making it all things to all people. 
+ 11. Jaisalmer - Situated close to the Pakistan Border, the Golden City is a major tourist spot owing to its proximity to the Thar Desert. 
+ 12. Rishikesh - Situated along the convergence of Ganga and Chandrabhaga, Rishikesh on the foothills of Himalayas is the hub of many ancient temples, popular cafes, yoga ashrams and adventure sports. 
+ 13. Alleppey - Famous backwaters of God's own country, Kerela, the city of Alleppey is known for its beaches, temples, boat races and Ayurvedic spa and wellness centers. 
+ 14. Varkala - Famous for its natural fisheries and springs, Varkala is a coastal town with scenic beaches, lakes, forts, lighthouse and for the samadhi of Kerala's saint Sree Narayana Guru. 
+ 15. Bangalore - Having evolved gradually from being the Garden city to the Silicon Valley of India, Bangalore is India's third-largest city. Bangalore is loved for its pleasant weather, beautiful parks and lakes all around the town. 
+ 16. Jodhpur - Known as the ""Gateway to Thar"" , it is famous for its forts, temples, sweets and snacks 
+ 17. Coorg - Located amidst imposing mountains with a perpetually misty landscape, Coorg is the place to be for all nature lovers, an affluent hill station in Karnataka. 
+ 18. Shimla - Probably the most popular hill station in northern India, Shimla is the capital city of Himachal Pradesh famous for its Mall road, the Ridge, toy train etc. among honeymooners and families alike. 
+ 19. Munnar - Situated on the banks of three rivers- Madupetti, Nallathanni and Periavaru, Munnar is an idyllic hill station, famous for its tea estates, exotic scenery, abundance of flora and fauna and craggy peaks. 
+ 20. Gangtok - Prettily situated on a hillock at an altitude of 1800 meters, Gangtok can be safely said to be one of the most beautiful hill stations in the country. 
+ 21. Srinagar - Lying on the banks of River Jhelum with deep and mesmerizing valleys cascaded in sky scraping mountains and evergreen beauty, Srinagar symbolizes nature, beauty, harmony and romance. 
+ 22. Darjeeling - Household name because of its varieties of teas, Darjeeling is a hill station with vast expanses of tea estates and Tibetan influence in their craft, culture and cuisine. 
+ 23. Kolkata - Labeled as the 'City of Joy', the 'Cultural capital of India', Kolkata (formerly known as Calcutta) is a city with character and remnants of British Raj visible in its Victorian style architecture, trams and the nomenclature of the place. 
+ 24. Amritsar - Home to the famous Golden Temple, the historical city of Amritsar is a famous pilgrim centre. 
+ 25. Nainital - Nainital with its beautiful lakes, temples and exotic scenery around is the perfect honeymoon paradise nestled in the arms of Kumaon Hills. 
+ 26. Ooty - Ooty, the queen of hill stations and the capital of Nilgiris district, is one of the most popular tourist destination, especially as a honeymoon destination. 
+ 27. Hyderabad - A densely populated metropolitan city with people bustling in and out of cafes, offices, temples and even nowhere, Hyderabad is fast turning into the new York city of South India. 
+ 28. Mussoorie - Situated at an altitude of 6000 ft., Mussoorie is a popular hill station famous for its colonial heritage and its religious sites. 
+ 29. Pondicherry - Puducherry was the largest French colony in India and the French influence on the city can still be seen. 
+ 30. Khajuraho - Khajuraho is known around the world for its stunning temples adorned by erotic and sensuous carvings. 
+ 31. Chennai - The fourth largest city of India, Chennai is convoluted with temples, churches and beaches. The roads are always bustling with activity and the nightlife is as every youth dreams of. 
+ 32. Vaishno Devi - Located in Trikuta hills 13 Kms from Katra at a height of 1560 m above sea level with shimmering clouds and thinning air, this town is the holy cave temple of Mata Vaishnodevi. 
+ 33. Dalhousie - Dalhousie is a hill station with amazing scenic views and prominent traces of India's British association such as colonial mansions. 
+ 34. Ajanta and Ellora Caves - Ajanta and Ellora caves are considered to be one of the most important tourist destinations in the world owing to the magnificent paintings of Ajanta and well carved sculptures of Ellora. 
+ 35. Haridwar - Situated along the holy Ganges, Haridwar is famous for its temples and ghats where pilgrims bathe to relieve themselves of their sins. 
+ 36. Kanyakumari - Located at the southernmost part of India, Kanyakumari with its beautiful beaches, Vivekananda Memorial and the perfect sunset is one of the most exotic places to go in India. 
+ 37. Mcleodganj - Mcleodganj is a hill station near Dharamshala, popular among trekkers and with a heavy Tibetan culture with British influence. 
+ 38. Pune - With a large student population, Pune is popularly known as the college town of India and has a range of great restaurants, happening nightlife and an overall young atmosphere. 
+ 39. Kodaikanal - Kodaikanal is the most sought after honeymoon destination in South India because of its scenic beauty and it has the attribute to leave any nature lover mesmerized by its charisma. 
+ 40. Kochi - Situated on beach-side, Kochi is a bustling commercial port with a trading history that dates back to at least 600 years, and is till today the financial capital of Kerala. 
+ 41. Ahmedabad - Also known as Amdavad, this is an industrial and commercial city but a nice, popular destination for tourists who want to get the taste of Gujarat. 
+ 42. Kanha National Park - A delightful town situated in the district of Mandla, Kanha National park is the haven of an exceptionally wide variety of wild animals, including the majestic creature tiger. 
+ 43. Mysore - The third largest city in Karnataka, Mysore has a royal history, a rich and regal heritage and an important center of art and culture. 
+ 44. Chandigarh - Designed by the ace architect Le Corbusier consisting of 47 self-contained sectors, India's first planned city is known for its unique blend of urbane architecture and natural bliss. 
+ 45. Visakhapatnam - Known for its pristine beaches, natural beauty and scenic landscape along with a rich cultural and historical heritage, Visakhapatnam, better known as Vizag is a port city and a gem of South India. 
+ 46. Lonavala - Popular hill station close to Pune and Mumbai especially appealing to hikers and trekkers, Lonavla is famous for its historic caves, striking forts and pretty lakes 
+ 47. Wayanad - Replete with enchanting waterfalls, historical caves, comfortable resorts and home stays, this popular town is famous for its spice plantations and wildlife. 
+ 48. Mount Abu - The only hill station of Rajasthan, its cool atmosphere and lush green surroundings make it a major tourist spot 
+ 49. Hampi - Hampi, the city of ruins is a UNESCO World Heritage Site, owing to the ancient temples, forts, palaces and other monuments here. 
+ 50. Gulmarg - Situated at an altitude of 2730 m above sea level, Gulmarg is surrounded by snow covered mountains, lush green meadows, deep ravines, evergreen forested hills and valleys. 
+ 51. Almora - Cradled in the wilderness of Himalayan ranges, the sprawling town of Almora shaped like a horse-shoe is a hill station located in Uttarakhand that boasts of a pre-British heritage. 
+ 52. Shirdi - The home of great saint Sai Baba, Shirdi is a religious site close to Nasik with various temples apart from the famous Sai Baba temple and a few historical sites. 
+ 53. Madurai - Madurai is one of the oldest cities of India and was ruled by Pandya kings over most of its history. The city is constructed in the form of a lotus and is known as lotus city too. 
+ 54. Amarnath - The Amarnath cave is haven to an enshrined image of ice called the Shivaling formed naturally, which resembles Lord Shiva and hence this is one of the most important pilgrimage in India. 
+ 55. Bodh Gaya - Believed to be the world's most sacred Buddhist pilgrimage center, Bodh Gaya is believed to be the place where Gautam Buddha achieved Enlightenment. 
+ 56. Auli - Dotted with apple orchards, oaks and deodars; Auli is a popular hill resort in the Himalayan range dating back to 8th Century AD. 
+ 57. Ujjain - Ujjain considered to be one of the holiest cities of India, is the home to Mahakaleshwar Temple and is also one of the four sites for the Kumbh Mela. 
+ 58. Pachmarhi - The only hill station in Madhya Pradesh, Pachmarhi is often known as the queen of the Satpura ranges. 
+ 59. Mahabaleshwar - A hill town in Western Ghats, apart from its strawberries, Mahabaleshwar is also well known for its numerous rivers, magnificent cascades and majestic peaks. 
+ 60. Nashik - Nasik is a religious Hindu city, abode of Maharashtra's most revered saint Shirdi Sai Baba and also makes for a perfect wine tour destination 
+ 61. Tirupati - The holy town of Tirupati is one amongst the 8 most sacred places of Lord Mahavishnu and is highly revered, glorified and worshiped. 
+ 62. Gwalior - A historic city founded by king Surajesan, Gwalior is galore with beautiful monuments, palaces and temples, giving this city a majestic charm which speaks volumes of its glorious past. 
+ 63. Mathura - Supposed to be the birthplace of Lord Krishna, Mathura is a city located on the banks of river Yamuna and draws flocks of Hindu tourists every year looking to visit the numerous temples in the city. 
+ 64. Jog Falls - The highest waterfall of India, these magnificent falls are a major tourist attraction in Karnataka, the spellbinding view of which gives everyone a memorable experience. 
+ 65. Alibag - A popular weekend getaway destination for Mumbai folks, Alibaug is a coastal town in the Konkan region well known for its sandy beaches, clean water and fresh, unpolluted air. 
+ 66. Rameshwaram - Rameshwaram is one of the holiest places and is located on a beautiful island. 
+ 67. Vrindavan - Believed to be the place where Lord Krishna grew up, the city of Vrindavan hosts hundreds of Lord Krishna and Radha temples scattered throughout, the most famous ones being Banke Bihari temple, ISKCON temple. 
+ 68. Coimbatore - Often termed as ‘Manchester of South India’, the city is photographically situated on the banks of River Noyyal and has an array of natural attractions. 
+ 69. Lucknow - Referred to as the city of Nawabs, capital city of Uttar Pradesh, Lucknow is famous for its monuments, food, clothing in all of which it you can see the traces of Mughal reign. 
+ 70. Digha - Beach town situated on the shores of Bay of Bengal, Digha is a popular tourist destination known for its pristine beaches and scenic views, especially among people in West Bengal. 
+ 71. Dharamshala - Dharamsala is a hill station which is famed as the holy residence of the Dalai Lama and houses the Tibetan Government in exile. 
+ 72. Kovalam - An idyllic village along the coastlines of the Arabian Sea, Kovalam is most famous for its three pristine beaches with shallow waters and low tidal waves where one can go surfing, wooden and motor boat riding. 
+ 73. Kaziranga National Park - Home to two-thirds of the world's one horned rhinoceros population, this national park has been declared as a World Heritage Site. 
+ 74. Madikeri - Generally covered as a part of trips to Coorg, Madikeri is a quaint hill town in Karnataka with vast coffee plantations, lush forests and misty hills, all culminating into a breathtaking view. 
+ 75. Matheran - With close to 40 look-out points offering great sunrise and sunset views in the smallest hill station in India with, Matheran clearly wins on the rejuvenating experience it provides to visitors. 
+ 76. Ranthambore - This is one of the best tiger reserves of the country, known to have ""friendly"" tigers 
+ 77. Jim Corbett National Park - Corbett National Park, set amidst the foothills of Himalayas, houses a variety of flora and fauna including rare ones such as tigers and is a treat for wildlife enthusiasts and photographers. 
+ 78. Kasol - A destination that is tinted in the best shades that nature can offer is a small village of Kasol, known for its Israeli inhabitants, Parvati river, trekking base-camp and backpackers and Malana. 
+ 79. Agartala - Home to the Manikya Kings in the past, Agartala is the perfect mix of natural beauty combined with diverse and rich culture. 
+ 80. Khandala - Perched on the foothills of Sahyadris, Khandala provides for a perfect weekend respite for the Mumbai population, with its scenic valleys, grassy hills, serene lakes and misty waterfalls. 
+ 81. Kalimpong - Kalimpong is a virgin hill station in West Bengal renowned for its panoramic valley views, Buddhists monasteries and churches and Tibetan handicrafts etc. 
+ 82. Thanjavur - Also known as Tanjore or the city of temples, Thanjavur has a lot of cultural value and is known for its famous Tanjore paintings, antiques and handicrafts, its Carnatic music and musical instruments and of course the temples. 
+ 83. Bhubaneswar - Bhubaneswar, the temple city of India, once known for its architecture and grand temples, is presently a thriving centre for commerce and business. 
+ 84. Ajmer - Ajmer is brimming with natural beauty and is a renowned religious spot for Hindus and Muslims alike. 
+ 85. Aurangabad - Aurangabad is an industrial town which also serves as a tourist hub with numerous points of interest such as Bibi ka Maqbara (or Mini Taj Mahal), Ajanta-ellora caves, some of the most famous ones. 
+ 86. Jammu - Be it the multi-hued flags representing the temples and shrines in the city, the tantalizing aromas that lift and diffuse from its spectacular cuisine or even the snow capped mountains that promise adventure and action, this 'City of Temples' has something to offer to everyone. 
+ 87. Dehradun - This hill town in the foothills of the Shivalik ranges in the Garhwal region with two perennial rivers flowing through it, popular for its historic civilization and offers a delightful terrain to trekkers. 
+ 88. Puri - One of the four must-visit pilgrimage sites for Hindus (Char-Dham), Puri is a beach city with its most famous attraction as the Jagannath temple and other attractions such as Chilka Lake, Konark sun temple etc. 
+ 89. Cherrapunji - The wettest place on the Earth, Cherrapunjee with its clean and pristine surroundings is an excellent place to sit back and unwind. 
+ 90. Bikaner - Situated in the middle of Thar Desert, Bikaner is a city of forts and palaces. It is also known for its sweets and snacks! 
+ 91. Shimoga (Shivamogga) - With nature in its full bloom, the town of Shimoga has been a home to several great dynasties and kingdoms. 
+ 92. Hogenakkal - Hogenakkal is the small village that is known because of Kaveri river that splits into multiple streams of waterfalls over here, making it arguably the most heavenly place in the state. 
+ 93. Gir National Park - Gir National Park is the only home for the Asiatic Lions but even if you miss out on spotting the lions, the national park has a lot more to offer. 
+ 94. Kasauli - Located on the way from Chandigarh to Shimla, Kasauli is a hilly cantonment town which makes for an ideal peaceful holiday location, away from the rush. 
+ 95. Pushkar - One of the oldest existing cities of India, it has one of few existing temples devoted to Lord Brahma. 
+ 96. Chittorgarh - A historic city, Chittorgarh is mainly known for it's beautiful forts and temples 
+ 97. Nahan - Away from the buzzing crowd of the city, Nahan is a perfect romantic getaway, lying among the lofty Shivalik range, overlooking lush green fields. 
+ 98. Lavasa - Lavasa, a private planned hill city located near Pune in Maharashtra, is known as India's newest hill station since independence and is a perfect blend of beauty and infrastructure. 
+ 99. Poovar - Poovar is a lovely island with long stretches of glowing sand, serene surroundings and refreshing gentle breeze. I 
+ 100. Honnemaradu - Honnemaradu is a small cozy village, by the Honnemaradu Reservoir. The site is set in the middle of a valley. The little village has very few people, and the only attraction is the water sports done at the Honnemaradu lake. 
